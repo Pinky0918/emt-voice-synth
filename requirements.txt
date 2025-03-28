@@ -1,1 +1,6 @@
+torch
+torchaudio
+TTS==0.22.0
+numpy
+soundfile
 
